@@ -1,0 +1,1 @@
+Pattern to realize common communication patterns between objects

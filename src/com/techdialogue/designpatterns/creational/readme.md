@@ -1,0 +1,1 @@
+Creation patterns deal with various object creation strategies
