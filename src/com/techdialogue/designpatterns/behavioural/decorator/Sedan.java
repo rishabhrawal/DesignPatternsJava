@@ -1,4 +1,4 @@
-package com.techdialogue.designpatterns.behavioural.Decorator;
+package com.techdialogue.designpatterns.behavioural.decorator;
 
 public class Sedan extends Car {
 
